@@ -19,29 +19,14 @@ Taskify, a frontend development project, leverages Flutter framework and Dart pr
 - This will ensure productivity.
 
 ## Screenshots
-
-- User Login and Registration Page
-  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/6bcedd52-a288-4fed-ab91-0bc3c6601d53"> 
-  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/390ada4d-be2e-469e-8513-3b7ed93c155c">
   
-- Homepage
+  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/6bcedd52-a288-4fed-ab91-0bc3c6601d53" height="400" width="200"> 
+  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/390ada4d-be2e-469e-8513-3b7ed93c155c" height="400" width="200">
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/165be707-1d94-401e-8945-e79c4436c378" height="400" width="200">
-
-  
-
-- Main Task overview
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/c5fe5d93-456d-412e-99c5-e92a41647f14" height="400" width="200">
-
-- Calendar Page
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/fc05b87d-bea2-461e-b964-9235a941e212" height="400" width="200">
-
-- Profile Page
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/148c0da9-3e5c-4356-b018-e05c3edca950" height="400" width="200">
-
-- New Main Task
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/02d12b5b-fced-498b-82bf-8a6dd28d7b6b" height="400" width="200">
-
-- New Sub Task
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/2680e909-4d50-4254-b2da-30168a1b6281" height="400" width="200">
    
 ## Dependencies used

@@ -6,11 +6,11 @@
 [![Flutter License](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart License](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
-## Introduction
+## 💬 Introduction
 
 Taskify, a frontend development project, leverages Flutter framework and Dart programming language to create a seamless task management system. This dynamic interface seamlessly integrates a built-in calendar of events, enhancing productivity and organization. Users can efficiently manage tasks while staying organized with the intuitive calendar feature. Taskify's sleek design and responsive user interface provide a user-friendly experience, making it a versatile solution for individuals and teams seeking an efficient and visually appealing tool for task management.
 
-## Features
+## ⚡️ Features
 - Simplified Task Management
 - Calendar of events
 - Add main tasks to your dashboard.
@@ -29,7 +29,7 @@ Taskify, a frontend development project, leverages Flutter framework and Dart pr
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/02d12b5b-fced-498b-82bf-8a6dd28d7b6b" height="400" width="200">
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/2680e909-4d50-4254-b2da-30168a1b6281" height="400" width="200">
    
-## Dependencies used
+## 👩‍💻 Dependencies used
 
 ```
 dependencies:
@@ -50,7 +50,7 @@ dependencies:
   syncfusion_flutter_calendar: ^21.1.41
 ```
 
-## Lessons Learned
+## 🧠 Lessons Learned
 
 What did you learn while building this project? 
 
@@ -70,7 +70,8 @@ What challenges did you face and how did you overcome them?
 - I just had to invest my time and knowledge in it to overcome them.
 - Time invested - 54 Days
 
-## Inspiration -
+## 🚀 Inspiration 
+
  [Design](https://tii.la/taskify)
 
 ## 🔗 Links

@@ -70,6 +70,9 @@ What challenges did you face and how did you overcome them?
 - I just had to invest my time and knowledge in it to overcome them.
 - Time invested - 54 Days
 
+## Inspiration -
+ [Design](https://tii.la/taskify)
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-kumar-parida/)

@@ -68,6 +68,7 @@ What challenges did you face and how did you overcome them?
 - I had several setbacks while working on this project like the state management errors and app not performing as expected while code is correct.
 - There are several resources out there which can help you with the problems
 - I just had to invest my time and knowledge in it to overcome them.
+- Time invested - 54 Days
 
 ## 🔗 Links
 

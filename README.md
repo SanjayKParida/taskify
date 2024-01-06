@@ -1,2 +1,16 @@
 # taskify
- Taskify, a frontend development project, leverages Flutter framework and Dart programming language to create a seamless task management system. This dynamic interface seamlessly integrates a built-in calendar of events, enhancing productivity and organization. Users can efficiently manage tasks while staying organized with the intuitive calendar feature. Taskify's sleek design and responsive user interface provide a user-friendly experience, making it a versatile solution for individuals and teams seeking an efficient and visually appealing tool for task management.
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

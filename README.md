@@ -21,12 +21,9 @@ Taskify, a frontend development project, leverages Flutter framework and Dart pr
 ## Screenshots
 
 - User Login and Registration Page
-  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/6bcedd52-a288-4fed-ab91-0bc3c6601d53" height="400" width="200">
+  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/6bcedd52-a288-4fed-ab91-0bc3c6601d53"> 
+  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/390ada4d-be2e-469e-8513-3b7ed93c155c">
   
-  <img src="https://github.com/SanjayKParida/taskify/assets/64453988/390ada4d-be2e-469e-8513-3b7ed93c155c" height="400" width="200">
-
-
-
 - Homepage
   <img src="https://github.com/SanjayKParida/taskify/assets/64453988/165be707-1d94-401e-8945-e79c4436c378" height="400" width="200">
 
